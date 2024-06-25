@@ -1,0 +1,1 @@
+This is basically political analysis project done with the help of LLMs

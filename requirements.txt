@@ -10,3 +10,8 @@ faiss-cpu
 docx2txt
 unstructured
 unstructured[pdf]
+PyPDF2
+langchain_huggingface 
+pydantic
+streamlit
+streamlit_extras

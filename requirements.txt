@@ -15,3 +15,4 @@ langchain_huggingface
 pydantic
 streamlit
 streamlit_extras
+seaborn
